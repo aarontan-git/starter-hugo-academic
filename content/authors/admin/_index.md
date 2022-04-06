@@ -1,8 +1,7 @@
 ---
 title: Aaron Hao Tan
 role: PhD Candidate
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: blah blah blah
 interests:
   - Artificial Intelligence
   - Computational Linguistics
